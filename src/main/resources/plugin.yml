@@ -1,0 +1,5 @@
+name: EcoDeath
+version: '${project.version}'
+main: it.ajstudios.ecodeath.Main
+api-version: 1.18
+authors: [ ajstudios ]
